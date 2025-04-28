@@ -1,0 +1,870 @@
+[
+    {
+        "name": "A",
+        "shape": [null, 0, 2, 2, 2, 0]
+    },
+    {
+        "name": "Am",
+        "shape": [null, 0, 2, 2, 1, 0]
+    },
+    {
+        "name": "A7",
+        "shape": [null, 0, 2, 0, 2, 0]
+    },
+    {
+        "name": "Amaj7",
+        "shape": [null, 0, 2, 1, 2, 0]
+    },
+    {
+        "name": "Am7",
+        "shape": [null, 0, 2, 0, 1, 0]
+    },
+    {
+        "name": "A+",
+        "shape": [null, 0, 3, 2, 2, 0]
+    },
+    {
+        "name": "Adim",
+        "shape": [null, 0, 1, 2, 1, null]
+    },
+    {
+        "name": "Adim7",
+        "shape": [null, 0, 1, 2, 1, 2]
+    },
+    {
+        "name": "Asus2",
+        "shape": [null, 0, 2, 2, 0, 0]
+    },
+    {
+        "name": "Asus4",
+        "shape": [null, 0, 2, 2, 3, 0]
+    },
+    {
+        "name": "A7sus2",
+        "shape": [null, 0, 2, 0, 0, 0]
+    },
+    {
+        "name": "A7sus4",
+        "shape": [null, 0, 2, 0, 3, 0]
+    },
+    {
+        "name": "A6",
+        "shape": [null, 0, 2, 2, 2, 2]
+    },
+    {
+        "name": "Am6",
+        "shape": [null, 0, 2, 2, 1, 2]
+    },
+    {
+        "name": "A9",
+        "shape": [null, 0, 2, 4, 2, 0]
+    },
+    {
+        "name": "Am9",
+        "shape": [null, 0, 2, 4, 1, 0]
+    },
+    {
+        "name": "Amaj",
+        "shape": [null, 0, 2, 2, 2, 0]
+    },
+    {
+        "name": "Amaj7",
+        "shape": [null, 0, 2, 1, 2, 0]
+    },
+    {
+        "name": "A7/6",
+        "shape": [null, 0, 2, 0, 2, 2]
+    },
+    {
+        "name": "B",
+        "shape": [null, 2, 4, 4, 4, 2]
+    },
+    {
+        "name": "Bm",
+        "shape": [null, 2, 4, 4, 3, 2]
+    },
+    {
+        "name": "B7",
+        "shape": [null, 2, 4, 2, 4, 2]
+    },
+    {
+        "name": "Bm7",
+        "shape": [null, 2, 4, 2, 3, 2]
+    },
+    {
+        "name": "B+",
+        "shape": [null, 2, 5, 4, 4, 2]
+    },
+    {
+        "name": "Bdim",
+        "shape": [null, 2, 3, 4, 3, null]
+    },
+    {
+        "name": "Bdim7",
+        "shape": [null, 2, 3, 4, 3, 4]
+    },
+    {
+        "name": "Bsus2",
+        "shape": [null, 2, 4, 4, 2, 2]
+    },
+    {
+        "name": "Bsus4",
+        "shape": [null, 2, 4, 4, 5, 2]
+    },
+    {
+        "name": "B7sus2",
+        "shape": [null, 2, 4, 2, 2, 2]
+    },
+    {
+        "name": "B7sus4",
+        "shape": [null, 2, 4, 2, 5, 2]
+    },
+    {
+        "name": "B6",
+        "shape": [null, 2, 4, 4, 4, 4]
+    },
+    {
+        "name": "Bm6",
+        "shape": [null, 2, 4, 4, 3, 4]
+    },
+    {
+        "name": "B9",
+        "shape": [null, 2, 4, 6, 4, 2]
+    },
+    {
+        "name": "Bm9",
+        "shape": [null, 2, 4, 6, 3, 2]
+    },
+    {
+        "name": "Bmaj",
+        "shape": [null, 2, 4, 4, 4, 2]
+    },
+    {
+        "name": "Bmaj7",
+        "shape": [null, 2, 4, 3, 4, 2]
+    },
+    {
+        "name": "B7/6",
+        "shape": [null, 2, 4, 2, 4, 4]
+    },
+    {
+        "name": "C",
+        "shape": [null, 3, 2, 0, 1, 0]
+    },
+    {
+        "name": "Cm",
+        "shape": [null, 3, 5, 5, 4, 3]
+    },
+    {
+        "name": "C7",
+        "shape": [null, 3, 2, 3, 1, 0]
+    },
+    {
+        "name": "Cm7",
+        "shape": [null, 3, 5, 3, 4, 3]
+    },
+    {
+        "name": "C+",
+        "shape": [null, 3, 2, 1, 1, null]
+    },
+    {
+        "name": "Cdim",
+        "shape": [null, 3, 4, 5, 4, null]
+    },
+    {
+        "name": "Cdim7",
+        "shape": [null, 3, 4, 2, 4, null]
+    },
+    {
+        "name": "Csus2",
+        "shape": [null, 3, 0, 0, 1, 3]
+    },
+    {
+        "name": "Csus4",
+        "shape": [null, 3, 3, 0, 1, 3]
+    },
+    {
+        "name": "C7sus2",
+        "shape": [null, 3, 0, 3, 1, 3]
+    },
+    {
+        "name": "C7sus4",
+        "shape": [null, 3, 3, 3, 1, 3]
+    },
+    {
+        "name": "C6",
+        "shape": [null, 3, 2, 2, 1, 0]
+    },
+    {
+        "name": "Cm6",
+        "shape": [null, 3, 5, 2, 4, 3]
+    },
+    {
+        "name": "C9",
+        "shape": [null, 3, 2, 3, 3, 3]
+    },
+    {
+        "name": "Cm9",
+        "shape": [null, 3, 5, 3, 3, 3]
+    },
+    {
+        "name": "Cmaj",
+        "shape": [null, 3, 2, 0, 1, 0]
+    },
+    {
+        "name": "Cmaj7",
+        "shape": [null, 3, 2, 0, 0, 0]
+    },
+    {
+        "name": "C7/6",
+        "shape": [null, 3, 2, 2, 1, 3]
+    },
+    {
+        "name": "D",
+        "shape": [null, null, 0, 2, 3, 2]
+    },
+    {
+        "name": "Dm",
+        "shape": [null, null, 0, 2, 3, 1]
+    },
+    {
+        "name": "D7",
+        "shape": [null, null, 0, 2, 1, 2]
+    },
+    {
+        "name": "Dm7",
+        "shape": [null, null, 0, 2, 1, 1]
+    },
+    {
+        "name": "D+",
+        "shape": [null, null, 0, 3, 3, 2]
+    },
+    {
+        "name": "Ddim",
+        "shape": [null, null, 0, 1, 0, 1]
+    },
+    {
+        "name": "Ddim7",
+        "shape": [null, null, 0, 1, 0, 1]
+    },
+    {
+        "name": "Dsus2",
+        "shape": [null, null, 0, 2, 3, 0]
+    },
+    {
+        "name": "Dsus4",
+        "shape": [null, null, 0, 2, 3, 3]
+    },
+    {
+        "name": "D7sus2",
+        "shape": [null, null, 0, 2, 1, 0]
+    },
+    {
+        "name": "D7sus4",
+        "shape": [null, null, 0, 2, 1, 3]
+    },
+    {
+        "name": "D6",
+        "shape": [null, null, 0, 2, 0, 2]
+    },
+    {
+        "name": "Dm6",
+        "shape": [null, null, 0, 2, 0, 1]
+    },
+    {
+        "name": "D9",
+        "shape": [null, null, 0, 5, 1, 2]
+    },
+    {
+        "name": "Dm9",
+        "shape": [null, null, 0, 5, 1, 1]
+    },
+    {
+        "name": "Dmaj",
+        "shape": [null, null, 0, 2, 3, 2]
+    },
+    {
+        "name": "Dmaj7",
+        "shape": [null, null, 0, 2, 2, 2]
+    },
+    {
+        "name": "D7/6",
+        "shape": [null, null, 0, 2, 0, 2]
+    },
+    {
+        "name": "E",
+        "shape": [0, 2, 2, 1, 0, 0]
+    },
+    {
+        "name": "Em",
+        "shape": [0, 2, 2, 0, 0, 0]
+    },
+    {
+        "name": "E7",
+        "shape": [0, 2, 0, 1, 0, 0]
+    },
+    {
+        "name": "Em7",
+        "shape": [0, 2, 0, 0, 0, 0]
+    },
+    {
+        "name": "E+",
+        "shape": [0, 3, 2, 1, 1, 0]
+    },
+    {
+        "name": "Edim",
+        "shape": [0, 1, 2, 0, null, 0]
+    },
+    {
+        "name": "Edim7",
+        "shape": [0, 1, 2, 0, 2, 0]
+    },
+    {
+        "name": "Esus2",
+        "shape": [0, 2, 2, 4, 0, 0]
+    },
+    {
+        "name": "Esus4",
+        "shape": [0, 2, 2, 2, 0, 0]
+    },
+    {
+        "name": "E7sus2",
+        "shape": [0, 2, 0, 4, 0, 0]
+    },
+    {
+        "name": "E7sus4",
+        "shape": [0, 2, 0, 2, 0, 0]
+    },
+    {
+        "name": "E6",
+        "shape": [0, 2, 2, 1, 2, 0]
+    },
+    {
+        "name": "Em6",
+        "shape": [0, 2, 2, 0, 2, 0]
+    },
+    {
+        "name": "E9",
+        "shape": [0, 2, 0, 1, 0, 2]
+    },
+    {
+        "name": "Em9",
+        "shape": [0, 2, 0, 0, 0, 2]
+    },
+    {
+        "name": "Emaj",
+        "shape": [0, 2, 2, 1, 0, 0]
+    },
+    {
+        "name": "Emaj7",
+        "shape": [0, 2, 1, 1, 0, 0]
+    },
+    {
+        "name": "E7/6",
+        "shape": [0, 2, 0, 1, 2, 0]
+    },
+    {
+        "name": "F",
+        "shape": [1, 3, 3, 2, 1, 1]
+    },
+    {
+        "name": "Fm",
+        "shape": [1, 3, 3, 1, 1, 1]
+    },
+    {
+        "name": "F7",
+        "shape": [1, 3, 1, 2, 1, 1]
+    },
+    {
+        "name": "Fm7",
+        "shape": [1, 3, 1, 1, 1, 1]
+    },
+    {
+        "name": "F+",
+        "shape": [1, 4, 3, 2, 2, 1]
+    },
+    {
+        "name": "Fdim",
+        "shape": [1, 2, 3, 1, null, 1]
+    },
+    {
+        "name": "Fdim7",
+        "shape": [1, 2, 3, 1, 3, 1]
+    },
+    {
+        "name": "Fsus2",
+        "shape": [1, 3, 3, 5, 1, 1]
+    },
+    {
+        "name": "Fsus4",
+        "shape": [1, 3, 3, 3, 1, 1]
+    },
+    {
+        "name": "F7sus2",
+        "shape": [1, 3, 1, 5, 1, 1]
+    },
+    {
+        "name": "F7sus4",
+        "shape": [1, 3, 1, 3, 1, 1]
+    },
+    {
+        "name": "F6",
+        "shape": [1, 3, 3, 2, 3, 1]
+    },
+    {
+        "name": "Fm6",
+        "shape": [1, 3, 3, 1, 3, 1]
+    },
+    {
+        "name": "F9",
+        "shape": [1, 3, 1, 2, 1, 3]
+    },
+    {
+        "name": "Fm9",
+        "shape": [1, 3, 1, 1, 1, 3]
+    },
+    {
+        "name": "Fmaj",
+        "shape": [1, 3, 3, 2, 1, 1]
+    },
+    {
+        "name": "Fmaj7",
+        "shape": [1, 3, 2, 2, 1, 1]
+    },
+    {
+        "name": "F7/6",
+        "shape": [1, 3, 1, 2, 3, 1]
+    },
+    {
+        "name": "G",
+        "shape": [3, 2, 0, 0, 0, 3]
+    },
+    {
+        "name": "Gm",
+        "shape": [3, 5, 5, 3, 3, 3]
+    },
+    {
+        "name": "G7",
+        "shape": [3, 2, 0, 0, 0, 1]
+    },
+    {
+        "name": "Gm7",
+        "shape": [3, 5, 3, 3, 3, 3]
+    },
+    {
+        "name": "G+",
+        "shape": [3, 2, 1, 0, 0, 3]
+    },
+    {
+        "name": "Gdim",
+        "shape": [3, 4, 5, 3, null, 3]
+    },
+    {
+        "name": "Gdim7",
+        "shape": [3, 4, 5, 3, 5, 3]
+    },
+    {
+        "name": "Gsus2",
+        "shape": [3, 0, 0, 0, 3, 3]
+    },
+    {
+        "name": "Gsus4",
+        "shape": [3, 3, 0, 0, 3, 3]
+    },
+    {
+        "name": "G7sus2",
+        "shape": [3, 0, 0, 0, 1, 3]
+    },
+    {
+        "name": "G7sus4",
+        "shape": [3, 3, 0, 0, 1, 3]
+    },
+    {
+        "name": "G6",
+        "shape": [3, 2, 0, 0, 0, 0]
+    },
+    {
+        "name": "Gm6",
+        "shape": [3, 5, 5, 3, 5, 3]
+    },
+    {
+        "name": "G9",
+        "shape": [3, 2, 0, 2, 0, 1]
+    },
+    {
+        "name": "Gm9",
+        "shape": [3, 5, 3, 3, 3, 5]
+    },
+    {
+        "name": "Gmaj",
+        "shape": [3, 2, 0, 0, 0, 3]
+    },
+    {
+        "name": "Gmaj7",
+        "shape": [3, 2, 0, 0, 0, 2]
+    },
+    {
+        "name": "G7/6",
+        "shape": [3, 2, 0, 0, 0, 0]
+    },
+    {
+        "name": "A#",
+        "shape": [null, 1, 3, 3, 3, 1]
+    },
+    {
+        "name": "A#m",
+        "shape": [null, 1, 3, 3, 2, 1]
+    },
+    {
+        "name": "A#7",
+        "shape": [null, 1, 3, 1, 3, 1]
+    },
+    {
+        "name": "A#m7",
+        "shape": [null, 1, 3, 1, 2, 1]
+    },
+    {
+        "name": "A#+",
+        "shape": [null, 1, 4, 3, 3, 1]
+    },
+    {
+        "name": "A#dim",
+        "shape": [null, 1, 2, 3, 2, null]
+    },
+    {
+        "name": "A#dim7",
+        "shape": [null, 1, 2, 3, 2, 3]
+    },
+    {
+        "name": "A#sus2",
+        "shape": [null, 1, 3, 3, 1, 1]
+    },
+    {
+        "name": "A#sus4",
+        "shape": [null, 1, 3, 3, 4, 1]
+    },
+    {
+        "name": "A#7sus2",
+        "shape": [null, 1, 3, 1, 1, 1]
+    },
+    {
+        "name": "A#7sus4",
+        "shape": [null, 1, 3, 1, 4, 1]
+    },
+    {
+        "name": "A#6",
+        "shape": [null, 1, 3, 3, 3, 3]
+    },
+    {
+        "name": "A#m6",
+        "shape": [null, 1, 3, 3, 2, 3]
+    },
+    {
+        "name": "A#9",
+        "shape": [null, 1, 3, 5, 3, 1]
+    },
+    {
+        "name": "A#m9",
+        "shape": [null, 1, 3, 5, 2, 1]
+    },
+    {
+        "name": "A#maj",
+        "shape": [null, 1, 3, 3, 3, 1]
+    },
+    {
+        "name": "A#maj7",
+        "shape": [null, 1, 3, 2, 3, 1]
+    },
+    {
+        "name": "A#7/6",
+        "shape": [null, 1, 3, 1, 3, 3]
+    },
+    {
+        "name": "C#",
+        "shape": [null, 4, 6, 6, 6, 4]
+    },
+    {
+        "name": "C#m",
+        "shape": [null, 4, 6, 6, 5, 4]
+    },
+    {
+        "name": "C#7",
+        "shape": [null, 4, 6, 4, 6, 4]
+    },
+    {
+        "name": "C#m7",
+        "shape": [null, 4, 6, 4, 5, 4]
+    },
+    {
+        "name": "C#+",
+        "shape": [null, 4, 7, 6, 6, 4]
+    },
+    {
+        "name": "C#dim",
+        "shape": [null, 4, 5, 6, 5, null]
+    },
+    {
+        "name": "C#dim7",
+        "shape": [null, 4, 5, 6, 5, 6]
+    },
+    {
+        "name": "C#sus2",
+        "shape": [null, 4, 6, 6, 4, 4]
+    },
+    {
+        "name": "C#sus4",
+        "shape": [null, 4, 6, 6, 7, 4]
+    },
+    {
+        "name": "C#7sus2",
+        "shape": [null, 4, 6, 4, 4, 4]
+    },
+    {
+        "name": "C#7sus4",
+        "shape": [null, 4, 6, 4, 7, 4]
+    },
+    {
+        "name": "C#6",
+        "shape": [null, 4, 6, 6, 6, 6]
+    },
+    {
+        "name": "C#m6",
+        "shape": [null, 4, 6, 6, 5, 6]
+    },
+    {
+        "name": "C#9",
+        "shape": [null, 4, 6, 8, 6, 4]
+    },
+    {
+        "name": "C#m9",
+        "shape": [null, 4, 6, 8, 5, 4]
+    },
+    {
+        "name": "C#maj",
+        "shape": [null, 4, 6, 6, 6, 4]
+    },
+    {
+        "name": "C#maj7",
+        "shape": [null, 4, 6, 5, 6, 4]
+    },
+    {
+        "name": "C#7/6",
+        "shape": [null, 4, 6, 4, 6, 6]
+    },
+    {
+        "name": "D#",
+        "shape": [null, 6, 8, 8, 8, 6]
+    },
+    {
+        "name": "D#m",
+        "shape": [null, 6, 8, 8, 7, 6]
+    },
+    {
+        "name": "D#7",
+        "shape": [null, 6, 8, 6, 8, 6]
+    },
+    {
+        "name": "D#m7",
+        "shape": [null, 6, 8, 6, 7, 6]
+    },
+    {
+        "name": "D#+",
+        "shape": [null, 6, 9, 8, 8, 6]
+    },
+    {
+        "name": "D#dim",
+        "shape": [null, 6, 7, 8, 7, null]
+    },
+    {
+        "name": "D#dim7",
+        "shape": [null, 6, 7, 8, 7, 8]
+    },
+    {
+        "name": "D#sus2",
+        "shape": [null, 6, 8, 8, 6, 6]
+    },
+    {
+        "name": "D#sus4",
+        "shape": [null, 6, 8, 8, 9, 6]
+    },
+    {
+        "name": "D#7sus2",
+        "shape": [null, 6, 8, 6, 6, 6]
+    },
+    {
+        "name": "D#7sus4",
+        "shape": [null, 6, 8, 6, 9, 6]
+    },
+    {
+        "name": "D#6",
+        "shape": [null, 6, 8, 8, 8, 8]
+    },
+    {
+        "name": "D#m6",
+        "shape": [null, 6, 8, 8, 7, 8]
+    },
+    {
+        "name": "D#9",
+        "shape": [null, 6, 8, 10, 8, 6]
+    },
+    {
+        "name": "D#m9",
+        "shape": [null, 6, 8, 10, 7, 6]
+    },
+    {
+        "name": "D#maj",
+        "shape": [null, 6, 8, 8, 8, 6]
+    },
+    {
+        "name": "D#maj7",
+        "shape": [null, 6, 8, 7, 8, 6]
+    },
+    {
+        "name": "D#7/6",
+        "shape": [null, 6, 8, 6, 8, 8]
+    },
+    {
+        "name": "F#",
+        "shape": [2, 4, 4, 3, 2, 2]
+    },
+    {
+        "name": "F#m",
+        "shape": [2, 4, 4, 2, 2, 2]
+    },
+    {
+        "name": "F#7",
+        "shape": [2, 4, 2, 3, 2, 2]
+    },
+    {
+        "name": "F#m7",
+        "shape": [2, 4, 2, 2, 2, 2]
+    },
+    {
+        "name": "F#+",
+        "shape": [2, 5, 4, 3, 3, 2]
+    },
+    {
+        "name": "F#dim",
+        "shape": [2, 3, 4, 2, null, 2]
+    },
+    {
+        "name": "F#dim7",
+        "shape": [2, 3, 4, 2, 4, 2]
+    },
+    {
+        "name": "F#sus2",
+        "shape": [2, 4, 4, 6, 2, 2]
+    },
+    {
+        "name": "F#sus4",
+        "shape": [2, 4, 4, 4, 2, 2]
+    },
+    {
+        "name": "F#7sus2",
+        "shape": [2, 4, 2, 6, 2, 2]
+    },
+    {
+        "name": "F#7sus4",
+        "shape": [2, 4, 2, 4, 2, 2]
+    },
+    {
+        "name": "F#6",
+        "shape": [2, 4, 4, 3, 4, 2]
+    },
+    {
+        "name": "F#m6",
+        "shape": [2, 4, 4, 2, 4, 2]
+    },
+    {
+        "name": "F#9",
+        "shape": [2, 4, 2, 3, 2, 4]
+    },
+    {
+        "name": "F#m9",
+        "shape": [2, 4, 2, 2, 2, 4]
+    },
+    {
+        "name": "F#maj",
+        "shape": [2, 4, 4, 3, 2, 2]
+    },
+    {
+        "name": "F#maj7",
+        "shape": [2, 4, 3, 3, 2, 2]
+    },
+    {
+        "name": "F#7/6",
+        "shape": [2, 4, 2, 3, 4, 2]
+    },
+    {
+        "name": "G#",
+        "shape": [4, 6, 6, 5, 4, 4]
+    },
+    {
+        "name": "G#m",
+        "shape": [4, 6, 6, 4, 4, 4]
+    },
+    {
+        "name": "G#7",
+        "shape": [4, 6, 4, 5, 4, 4]
+    },
+    {
+        "name": "G#m7",
+        "shape": [4, 6, 4, 4, 4, 4]
+    },
+    {
+        "name": "G#+",
+        "shape": [4, 7, 6, 5, 5, 4]
+    },
+    {
+        "name": "G#dim",
+        "shape": [4, 5, 6, 4, null, 4]
+    },
+    {
+        "name": "G#dim7",
+        "shape": [4, 5, 6, 4, 6, 4]
+    },
+    {
+        "name": "G#sus2",
+        "shape": [4, 6, 6, 8, 4, 4]
+    },
+    {
+        "name": "G#sus4",
+        "shape": [4, 6, 6, 6, 4, 4]
+    },
+    {
+        "name": "G#7sus2",
+        "shape": [4, 6, 4, 8, 4, 4]
+    },
+    {
+        "name": "G#7sus4",
+        "shape": [4, 6, 4, 6, 4, 4]
+    },
+    {
+        "name": "G#6",
+        "shape": [4, 6, 6, 5, 6, 4]
+    },
+    {
+        "name": "G#m6",
+        "shape": [4, 6, 6, 4, 6, 4]
+    },
+    {
+        "name": "G#9",
+        "shape": [4, 6, 4, 5, 4, 6]
+    },
+    {
+        "name": "G#m9",
+        "shape": [4, 6, 4, 4, 4, 6]
+    },
+    {
+        "name": "G#maj",
+        "shape": [4, 6, 6, 5, 4, 4]
+    },
+    {
+        "name": "G#maj7",
+        "shape": [4, 6, 5, 5, 4, 4]
+    },
+    {
+        "name": "G#7/6",
+        "shape": [4, 6, 4, 5, 6, 4]
+    }
+]

@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #2563eb;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #4b5563;
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+
+.fretboard {
+    display: grid;
+    grid-template-columns: repeat(5, 60px);
+    grid-template-rows: repeat(6, 60px);
+    justify-content: center;
+    margin: 20px auto;
+    gap: 5px;
+}
+
+.fretboard div {
+    border: 1px solid #aaa;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    position: relative;
+}
+
+.fretboard div.active::after {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-color: #3b82f6;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: #2563eb;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #2563eb;
+}
+
+.chord-diagram {
+    margin: 20px auto;
+    width: 200px;
+}
+
+.chord-diagram svg {
+    width: 100%;
+    height: auto;
+}
+
+.chord-diagram .string {
+    stroke: #000;
+    stroke-width: 1;
+}
+
+.chord-diagram .fret {
+    stroke: #000;
+    stroke-width: 1;
+}
+
+.chord-diagram .nut {
+    stroke: #000;
+    stroke-width: 3;
+}
+
+.chord-diagram .dot {
+    fill: #000;
+}
+
+.chord-diagram .open {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1.5;
+}
+
+.chord-diagram .muted {
+    font-family: Arial;
+    font-size: 24px;
+    fill: #000;
+}
+
+.chord-diagram .fret-number {
+    font-family: Arial;
+    font-size: 14px;
+    fill: #000;
+}
