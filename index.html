@@ -41,5 +41,18 @@
     <div id="result"></div>
     <div id="chordDiagram" class="chord-diagram"></div>
     <script src="script.js"></script>
+    <video id="video" controls autoplay width="1280" height="720"></video>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+  if (Hls.isSupported()) {
+    var video = document.getElementById('video');
+    var hls = new Hls();
+    hls.loadSource('http://linarprod-45696.portmap.io:45696/app/stream/llhls.m3u8');
+    hls.attachMedia(video);
+  } else {
+    console.error('HLS not supported');
+  }
+</script>
+
 </body>
 </html>
